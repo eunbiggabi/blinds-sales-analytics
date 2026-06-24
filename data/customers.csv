@@ -1,0 +1,1001 @@
+CustomerID,CustomerName,CustomerType,Suburb,State
+C0001,Customer 1,Residential,Sunnybank,QLD
+C0002,Customer 2,Residential,Carindale,QLD
+C0003,Customer 3,Residential,Calamvale,QLD
+C0004,Customer 4,Residential,Forest Lake,QLD
+C0005,Customer 5,Residential,Toowong,QLD
+C0006,Customer 6,Residential,Calamvale,QLD
+C0007,Customer 7,Residential,Forest Lake,QLD
+C0008,Customer 8,Residential,Forest Lake,QLD
+C0009,Customer 9,Residential,Forest Lake,QLD
+C0010,Customer 10,Residential,Springfield,QLD
+C0011,Customer 11,Residential,Sunnybank,QLD
+C0012,Customer 12,Residential,Eight Mile Plains,QLD
+C0013,Customer 13,Residential,Indooroopilly,QLD
+C0014,Customer 14,Residential,Carindale,QLD
+C0015,Customer 15,Commercial,Indooroopilly,QLD
+C0016,Customer 16,Residential,Toowong,QLD
+C0017,Customer 17,Residential,Indooroopilly,QLD
+C0018,Customer 18,Residential,Sunnybank,QLD
+C0019,Customer 19,Residential,Forest Lake,QLD
+C0020,Customer 20,Residential,Toowong,QLD
+C0021,Customer 21,Residential,Chermside,QLD
+C0022,Customer 22,Commercial,Redcliffe,QLD
+C0023,Customer 23,Commercial,Indooroopilly,QLD
+C0024,Customer 24,Residential,Calamvale,QLD
+C0025,Customer 25,Residential,Carindale,QLD
+C0026,Customer 26,Residential,Calamvale,QLD
+C0027,Customer 27,Commercial,Calamvale,QLD
+C0028,Customer 28,Residential,Springfield,QLD
+C0029,Customer 29,Residential,Indooroopilly,QLD
+C0030,Customer 30,Residential,Indooroopilly,QLD
+C0031,Customer 31,Residential,Chermside,QLD
+C0032,Customer 32,Residential,Calamvale,QLD
+C0033,Customer 33,Residential,Eight Mile Plains,QLD
+C0034,Customer 34,Residential,Carindale,QLD
+C0035,Customer 35,Residential,Toowong,QLD
+C0036,Customer 36,Residential,Forest Lake,QLD
+C0037,Customer 37,Residential,Indooroopilly,QLD
+C0038,Customer 38,Commercial,Sunnybank,QLD
+C0039,Customer 39,Residential,Sunnybank,QLD
+C0040,Customer 40,Commercial,Toowong,QLD
+C0041,Customer 41,Residential,Carindale,QLD
+C0042,Customer 42,Commercial,Redcliffe,QLD
+C0043,Customer 43,Commercial,Indooroopilly,QLD
+C0044,Customer 44,Residential,Springfield,QLD
+C0045,Customer 45,Residential,Springfield,QLD
+C0046,Customer 46,Residential,Eight Mile Plains,QLD
+C0047,Customer 47,Residential,Forest Lake,QLD
+C0048,Customer 48,Residential,Redcliffe,QLD
+C0049,Customer 49,Residential,Redcliffe,QLD
+C0050,Customer 50,Residential,Carindale,QLD
+C0051,Customer 51,Commercial,Eight Mile Plains,QLD
+C0052,Customer 52,Residential,Calamvale,QLD
+C0053,Customer 53,Residential,Calamvale,QLD
+C0054,Customer 54,Residential,Eight Mile Plains,QLD
+C0055,Customer 55,Residential,Toowong,QLD
+C0056,Customer 56,Residential,Toowong,QLD
+C0057,Customer 57,Residential,Springfield,QLD
+C0058,Customer 58,Residential,Forest Lake,QLD
+C0059,Customer 59,Commercial,Sunnybank,QLD
+C0060,Customer 60,Residential,Calamvale,QLD
+C0061,Customer 61,Residential,Forest Lake,QLD
+C0062,Customer 62,Residential,Indooroopilly,QLD
+C0063,Customer 63,Residential,Toowong,QLD
+C0064,Customer 64,Residential,Sunnybank,QLD
+C0065,Customer 65,Commercial,Chermside,QLD
+C0066,Customer 66,Commercial,Eight Mile Plains,QLD
+C0067,Customer 67,Residential,Calamvale,QLD
+C0068,Customer 68,Commercial,Chermside,QLD
+C0069,Customer 69,Commercial,Forest Lake,QLD
+C0070,Customer 70,Residential,Eight Mile Plains,QLD
+C0071,Customer 71,Residential,Eight Mile Plains,QLD
+C0072,Customer 72,Residential,Forest Lake,QLD
+C0073,Customer 73,Commercial,Redcliffe,QLD
+C0074,Customer 74,Residential,Sunnybank,QLD
+C0075,Customer 75,Residential,Indooroopilly,QLD
+C0076,Customer 76,Commercial,Chermside,QLD
+C0077,Customer 77,Residential,Carindale,QLD
+C0078,Customer 78,Commercial,Calamvale,QLD
+C0079,Customer 79,Residential,Springfield,QLD
+C0080,Customer 80,Commercial,Forest Lake,QLD
+C0081,Customer 81,Residential,Eight Mile Plains,QLD
+C0082,Customer 82,Residential,Forest Lake,QLD
+C0083,Customer 83,Residential,Forest Lake,QLD
+C0084,Customer 84,Commercial,Toowong,QLD
+C0085,Customer 85,Commercial,Forest Lake,QLD
+C0086,Customer 86,Residential,Carindale,QLD
+C0087,Customer 87,Residential,Toowong,QLD
+C0088,Customer 88,Commercial,Indooroopilly,QLD
+C0089,Customer 89,Residential,Forest Lake,QLD
+C0090,Customer 90,Residential,Carindale,QLD
+C0091,Customer 91,Residential,Indooroopilly,QLD
+C0092,Customer 92,Residential,Forest Lake,QLD
+C0093,Customer 93,Residential,Carindale,QLD
+C0094,Customer 94,Residential,Sunnybank,QLD
+C0095,Customer 95,Residential,Sunnybank,QLD
+C0096,Customer 96,Commercial,Calamvale,QLD
+C0097,Customer 97,Residential,Chermside,QLD
+C0098,Customer 98,Residential,Carindale,QLD
+C0099,Customer 99,Residential,Redcliffe,QLD
+C0100,Customer 100,Residential,Carindale,QLD
+C0101,Customer 101,Residential,Toowong,QLD
+C0102,Customer 102,Residential,Calamvale,QLD
+C0103,Customer 103,Residential,Indooroopilly,QLD
+C0104,Customer 104,Residential,Springfield,QLD
+C0105,Customer 105,Commercial,Sunnybank,QLD
+C0106,Customer 106,Residential,Calamvale,QLD
+C0107,Customer 107,Residential,Indooroopilly,QLD
+C0108,Customer 108,Commercial,Calamvale,QLD
+C0109,Customer 109,Residential,Carindale,QLD
+C0110,Customer 110,Residential,Eight Mile Plains,QLD
+C0111,Customer 111,Residential,Chermside,QLD
+C0112,Customer 112,Residential,Calamvale,QLD
+C0113,Customer 113,Residential,Forest Lake,QLD
+C0114,Customer 114,Residential,Forest Lake,QLD
+C0115,Customer 115,Commercial,Calamvale,QLD
+C0116,Customer 116,Commercial,Carindale,QLD
+C0117,Customer 117,Residential,Springfield,QLD
+C0118,Customer 118,Residential,Toowong,QLD
+C0119,Customer 119,Commercial,Eight Mile Plains,QLD
+C0120,Customer 120,Residential,Toowong,QLD
+C0121,Customer 121,Residential,Springfield,QLD
+C0122,Customer 122,Residential,Forest Lake,QLD
+C0123,Customer 123,Residential,Springfield,QLD
+C0124,Customer 124,Residential,Chermside,QLD
+C0125,Customer 125,Residential,Sunnybank,QLD
+C0126,Customer 126,Residential,Forest Lake,QLD
+C0127,Customer 127,Residential,Indooroopilly,QLD
+C0128,Customer 128,Residential,Redcliffe,QLD
+C0129,Customer 129,Residential,Forest Lake,QLD
+C0130,Customer 130,Residential,Forest Lake,QLD
+C0131,Customer 131,Residential,Eight Mile Plains,QLD
+C0132,Customer 132,Residential,Calamvale,QLD
+C0133,Customer 133,Residential,Carindale,QLD
+C0134,Customer 134,Residential,Redcliffe,QLD
+C0135,Customer 135,Residential,Redcliffe,QLD
+C0136,Customer 136,Residential,Calamvale,QLD
+C0137,Customer 137,Residential,Redcliffe,QLD
+C0138,Customer 138,Residential,Indooroopilly,QLD
+C0139,Customer 139,Commercial,Carindale,QLD
+C0140,Customer 140,Residential,Indooroopilly,QLD
+C0141,Customer 141,Residential,Toowong,QLD
+C0142,Customer 142,Residential,Chermside,QLD
+C0143,Customer 143,Residential,Calamvale,QLD
+C0144,Customer 144,Residential,Redcliffe,QLD
+C0145,Customer 145,Commercial,Calamvale,QLD
+C0146,Customer 146,Residential,Carindale,QLD
+C0147,Customer 147,Residential,Eight Mile Plains,QLD
+C0148,Customer 148,Commercial,Calamvale,QLD
+C0149,Customer 149,Commercial,Indooroopilly,QLD
+C0150,Customer 150,Residential,Springfield,QLD
+C0151,Customer 151,Commercial,Chermside,QLD
+C0152,Customer 152,Residential,Forest Lake,QLD
+C0153,Customer 153,Residential,Forest Lake,QLD
+C0154,Customer 154,Residential,Calamvale,QLD
+C0155,Customer 155,Commercial,Eight Mile Plains,QLD
+C0156,Customer 156,Residential,Calamvale,QLD
+C0157,Customer 157,Residential,Eight Mile Plains,QLD
+C0158,Customer 158,Residential,Redcliffe,QLD
+C0159,Customer 159,Residential,Indooroopilly,QLD
+C0160,Customer 160,Residential,Chermside,QLD
+C0161,Customer 161,Residential,Chermside,QLD
+C0162,Customer 162,Commercial,Sunnybank,QLD
+C0163,Customer 163,Residential,Toowong,QLD
+C0164,Customer 164,Commercial,Sunnybank,QLD
+C0165,Customer 165,Residential,Eight Mile Plains,QLD
+C0166,Customer 166,Residential,Chermside,QLD
+C0167,Customer 167,Residential,Springfield,QLD
+C0168,Customer 168,Residential,Toowong,QLD
+C0169,Customer 169,Residential,Calamvale,QLD
+C0170,Customer 170,Residential,Eight Mile Plains,QLD
+C0171,Customer 171,Residential,Indooroopilly,QLD
+C0172,Customer 172,Residential,Eight Mile Plains,QLD
+C0173,Customer 173,Residential,Sunnybank,QLD
+C0174,Customer 174,Residential,Sunnybank,QLD
+C0175,Customer 175,Commercial,Carindale,QLD
+C0176,Customer 176,Residential,Calamvale,QLD
+C0177,Customer 177,Residential,Forest Lake,QLD
+C0178,Customer 178,Commercial,Toowong,QLD
+C0179,Customer 179,Commercial,Eight Mile Plains,QLD
+C0180,Customer 180,Commercial,Carindale,QLD
+C0181,Customer 181,Commercial,Eight Mile Plains,QLD
+C0182,Customer 182,Commercial,Sunnybank,QLD
+C0183,Customer 183,Residential,Indooroopilly,QLD
+C0184,Customer 184,Residential,Toowong,QLD
+C0185,Customer 185,Commercial,Carindale,QLD
+C0186,Customer 186,Residential,Calamvale,QLD
+C0187,Customer 187,Residential,Sunnybank,QLD
+C0188,Customer 188,Commercial,Carindale,QLD
+C0189,Customer 189,Residential,Springfield,QLD
+C0190,Customer 190,Residential,Carindale,QLD
+C0191,Customer 191,Residential,Carindale,QLD
+C0192,Customer 192,Residential,Chermside,QLD
+C0193,Customer 193,Commercial,Chermside,QLD
+C0194,Customer 194,Residential,Forest Lake,QLD
+C0195,Customer 195,Residential,Forest Lake,QLD
+C0196,Customer 196,Residential,Sunnybank,QLD
+C0197,Customer 197,Residential,Chermside,QLD
+C0198,Customer 198,Residential,Chermside,QLD
+C0199,Customer 199,Residential,Redcliffe,QLD
+C0200,Customer 200,Residential,Indooroopilly,QLD
+C0201,Customer 201,Residential,Forest Lake,QLD
+C0202,Customer 202,Residential,Redcliffe,QLD
+C0203,Customer 203,Residential,Sunnybank,QLD
+C0204,Customer 204,Residential,Sunnybank,QLD
+C0205,Customer 205,Residential,Forest Lake,QLD
+C0206,Customer 206,Residential,Carindale,QLD
+C0207,Customer 207,Residential,Calamvale,QLD
+C0208,Customer 208,Commercial,Indooroopilly,QLD
+C0209,Customer 209,Residential,Calamvale,QLD
+C0210,Customer 210,Residential,Chermside,QLD
+C0211,Customer 211,Residential,Toowong,QLD
+C0212,Customer 212,Residential,Chermside,QLD
+C0213,Customer 213,Residential,Carindale,QLD
+C0214,Customer 214,Residential,Toowong,QLD
+C0215,Customer 215,Residential,Eight Mile Plains,QLD
+C0216,Customer 216,Residential,Chermside,QLD
+C0217,Customer 217,Residential,Sunnybank,QLD
+C0218,Customer 218,Residential,Carindale,QLD
+C0219,Customer 219,Residential,Redcliffe,QLD
+C0220,Customer 220,Residential,Indooroopilly,QLD
+C0221,Customer 221,Residential,Springfield,QLD
+C0222,Customer 222,Residential,Forest Lake,QLD
+C0223,Customer 223,Residential,Eight Mile Plains,QLD
+C0224,Customer 224,Residential,Chermside,QLD
+C0225,Customer 225,Residential,Redcliffe,QLD
+C0226,Customer 226,Residential,Carindale,QLD
+C0227,Customer 227,Residential,Carindale,QLD
+C0228,Customer 228,Commercial,Eight Mile Plains,QLD
+C0229,Customer 229,Residential,Carindale,QLD
+C0230,Customer 230,Commercial,Redcliffe,QLD
+C0231,Customer 231,Commercial,Calamvale,QLD
+C0232,Customer 232,Residential,Redcliffe,QLD
+C0233,Customer 233,Residential,Toowong,QLD
+C0234,Customer 234,Residential,Carindale,QLD
+C0235,Customer 235,Residential,Sunnybank,QLD
+C0236,Customer 236,Commercial,Calamvale,QLD
+C0237,Customer 237,Residential,Carindale,QLD
+C0238,Customer 238,Residential,Forest Lake,QLD
+C0239,Customer 239,Residential,Forest Lake,QLD
+C0240,Customer 240,Residential,Calamvale,QLD
+C0241,Customer 241,Residential,Springfield,QLD
+C0242,Customer 242,Residential,Forest Lake,QLD
+C0243,Customer 243,Residential,Springfield,QLD
+C0244,Customer 244,Residential,Forest Lake,QLD
+C0245,Customer 245,Residential,Forest Lake,QLD
+C0246,Customer 246,Residential,Eight Mile Plains,QLD
+C0247,Customer 247,Residential,Springfield,QLD
+C0248,Customer 248,Residential,Carindale,QLD
+C0249,Customer 249,Commercial,Chermside,QLD
+C0250,Customer 250,Residential,Forest Lake,QLD
+C0251,Customer 251,Residential,Carindale,QLD
+C0252,Customer 252,Residential,Calamvale,QLD
+C0253,Customer 253,Residential,Carindale,QLD
+C0254,Customer 254,Residential,Indooroopilly,QLD
+C0255,Customer 255,Commercial,Calamvale,QLD
+C0256,Customer 256,Residential,Carindale,QLD
+C0257,Customer 257,Residential,Eight Mile Plains,QLD
+C0258,Customer 258,Residential,Calamvale,QLD
+C0259,Customer 259,Residential,Indooroopilly,QLD
+C0260,Customer 260,Residential,Toowong,QLD
+C0261,Customer 261,Residential,Toowong,QLD
+C0262,Customer 262,Residential,Redcliffe,QLD
+C0263,Customer 263,Commercial,Sunnybank,QLD
+C0264,Customer 264,Commercial,Redcliffe,QLD
+C0265,Customer 265,Residential,Sunnybank,QLD
+C0266,Customer 266,Commercial,Chermside,QLD
+C0267,Customer 267,Residential,Toowong,QLD
+C0268,Customer 268,Residential,Forest Lake,QLD
+C0269,Customer 269,Residential,Carindale,QLD
+C0270,Customer 270,Residential,Chermside,QLD
+C0271,Customer 271,Residential,Sunnybank,QLD
+C0272,Customer 272,Residential,Toowong,QLD
+C0273,Customer 273,Residential,Springfield,QLD
+C0274,Customer 274,Commercial,Redcliffe,QLD
+C0275,Customer 275,Residential,Toowong,QLD
+C0276,Customer 276,Residential,Sunnybank,QLD
+C0277,Customer 277,Residential,Toowong,QLD
+C0278,Customer 278,Residential,Springfield,QLD
+C0279,Customer 279,Residential,Chermside,QLD
+C0280,Customer 280,Residential,Carindale,QLD
+C0281,Customer 281,Residential,Indooroopilly,QLD
+C0282,Customer 282,Residential,Toowong,QLD
+C0283,Customer 283,Residential,Toowong,QLD
+C0284,Customer 284,Residential,Calamvale,QLD
+C0285,Customer 285,Residential,Forest Lake,QLD
+C0286,Customer 286,Residential,Indooroopilly,QLD
+C0287,Customer 287,Residential,Calamvale,QLD
+C0288,Customer 288,Residential,Sunnybank,QLD
+C0289,Customer 289,Residential,Carindale,QLD
+C0290,Customer 290,Residential,Sunnybank,QLD
+C0291,Customer 291,Residential,Carindale,QLD
+C0292,Customer 292,Residential,Calamvale,QLD
+C0293,Customer 293,Residential,Carindale,QLD
+C0294,Customer 294,Residential,Chermside,QLD
+C0295,Customer 295,Residential,Eight Mile Plains,QLD
+C0296,Customer 296,Residential,Calamvale,QLD
+C0297,Customer 297,Residential,Eight Mile Plains,QLD
+C0298,Customer 298,Commercial,Calamvale,QLD
+C0299,Customer 299,Residential,Chermside,QLD
+C0300,Customer 300,Residential,Toowong,QLD
+C0301,Customer 301,Residential,Carindale,QLD
+C0302,Customer 302,Residential,Carindale,QLD
+C0303,Customer 303,Residential,Chermside,QLD
+C0304,Customer 304,Commercial,Redcliffe,QLD
+C0305,Customer 305,Commercial,Redcliffe,QLD
+C0306,Customer 306,Residential,Indooroopilly,QLD
+C0307,Customer 307,Residential,Indooroopilly,QLD
+C0308,Customer 308,Residential,Indooroopilly,QLD
+C0309,Customer 309,Residential,Toowong,QLD
+C0310,Customer 310,Commercial,Calamvale,QLD
+C0311,Customer 311,Residential,Indooroopilly,QLD
+C0312,Customer 312,Residential,Springfield,QLD
+C0313,Customer 313,Residential,Toowong,QLD
+C0314,Customer 314,Residential,Forest Lake,QLD
+C0315,Customer 315,Commercial,Chermside,QLD
+C0316,Customer 316,Residential,Forest Lake,QLD
+C0317,Customer 317,Residential,Springfield,QLD
+C0318,Customer 318,Residential,Redcliffe,QLD
+C0319,Customer 319,Residential,Carindale,QLD
+C0320,Customer 320,Commercial,Calamvale,QLD
+C0321,Customer 321,Residential,Springfield,QLD
+C0322,Customer 322,Residential,Springfield,QLD
+C0323,Customer 323,Residential,Toowong,QLD
+C0324,Customer 324,Residential,Springfield,QLD
+C0325,Customer 325,Commercial,Eight Mile Plains,QLD
+C0326,Customer 326,Residential,Indooroopilly,QLD
+C0327,Customer 327,Residential,Indooroopilly,QLD
+C0328,Customer 328,Residential,Redcliffe,QLD
+C0329,Customer 329,Residential,Chermside,QLD
+C0330,Customer 330,Residential,Forest Lake,QLD
+C0331,Customer 331,Commercial,Calamvale,QLD
+C0332,Customer 332,Residential,Toowong,QLD
+C0333,Customer 333,Residential,Carindale,QLD
+C0334,Customer 334,Residential,Springfield,QLD
+C0335,Customer 335,Residential,Sunnybank,QLD
+C0336,Customer 336,Residential,Carindale,QLD
+C0337,Customer 337,Residential,Carindale,QLD
+C0338,Customer 338,Residential,Redcliffe,QLD
+C0339,Customer 339,Residential,Forest Lake,QLD
+C0340,Customer 340,Residential,Toowong,QLD
+C0341,Customer 341,Commercial,Forest Lake,QLD
+C0342,Customer 342,Residential,Springfield,QLD
+C0343,Customer 343,Residential,Chermside,QLD
+C0344,Customer 344,Residential,Carindale,QLD
+C0345,Customer 345,Residential,Forest Lake,QLD
+C0346,Customer 346,Commercial,Eight Mile Plains,QLD
+C0347,Customer 347,Residential,Springfield,QLD
+C0348,Customer 348,Residential,Redcliffe,QLD
+C0349,Customer 349,Commercial,Forest Lake,QLD
+C0350,Customer 350,Residential,Calamvale,QLD
+C0351,Customer 351,Commercial,Chermside,QLD
+C0352,Customer 352,Residential,Eight Mile Plains,QLD
+C0353,Customer 353,Residential,Forest Lake,QLD
+C0354,Customer 354,Residential,Sunnybank,QLD
+C0355,Customer 355,Commercial,Forest Lake,QLD
+C0356,Customer 356,Residential,Eight Mile Plains,QLD
+C0357,Customer 357,Residential,Springfield,QLD
+C0358,Customer 358,Residential,Sunnybank,QLD
+C0359,Customer 359,Residential,Springfield,QLD
+C0360,Customer 360,Residential,Indooroopilly,QLD
+C0361,Customer 361,Residential,Sunnybank,QLD
+C0362,Customer 362,Residential,Springfield,QLD
+C0363,Customer 363,Residential,Calamvale,QLD
+C0364,Customer 364,Residential,Calamvale,QLD
+C0365,Customer 365,Residential,Sunnybank,QLD
+C0366,Customer 366,Residential,Redcliffe,QLD
+C0367,Customer 367,Commercial,Calamvale,QLD
+C0368,Customer 368,Commercial,Calamvale,QLD
+C0369,Customer 369,Residential,Toowong,QLD
+C0370,Customer 370,Residential,Redcliffe,QLD
+C0371,Customer 371,Residential,Forest Lake,QLD
+C0372,Customer 372,Residential,Springfield,QLD
+C0373,Customer 373,Residential,Redcliffe,QLD
+C0374,Customer 374,Commercial,Chermside,QLD
+C0375,Customer 375,Residential,Sunnybank,QLD
+C0376,Customer 376,Residential,Calamvale,QLD
+C0377,Customer 377,Commercial,Carindale,QLD
+C0378,Customer 378,Residential,Chermside,QLD
+C0379,Customer 379,Residential,Eight Mile Plains,QLD
+C0380,Customer 380,Residential,Forest Lake,QLD
+C0381,Customer 381,Residential,Sunnybank,QLD
+C0382,Customer 382,Residential,Redcliffe,QLD
+C0383,Customer 383,Residential,Sunnybank,QLD
+C0384,Customer 384,Residential,Chermside,QLD
+C0385,Customer 385,Residential,Springfield,QLD
+C0386,Customer 386,Residential,Carindale,QLD
+C0387,Customer 387,Commercial,Redcliffe,QLD
+C0388,Customer 388,Residential,Carindale,QLD
+C0389,Customer 389,Residential,Forest Lake,QLD
+C0390,Customer 390,Residential,Eight Mile Plains,QLD
+C0391,Customer 391,Commercial,Eight Mile Plains,QLD
+C0392,Customer 392,Residential,Eight Mile Plains,QLD
+C0393,Customer 393,Residential,Redcliffe,QLD
+C0394,Customer 394,Residential,Redcliffe,QLD
+C0395,Customer 395,Commercial,Springfield,QLD
+C0396,Customer 396,Residential,Chermside,QLD
+C0397,Customer 397,Residential,Chermside,QLD
+C0398,Customer 398,Residential,Springfield,QLD
+C0399,Customer 399,Residential,Redcliffe,QLD
+C0400,Customer 400,Residential,Toowong,QLD
+C0401,Customer 401,Residential,Redcliffe,QLD
+C0402,Customer 402,Residential,Calamvale,QLD
+C0403,Customer 403,Residential,Redcliffe,QLD
+C0404,Customer 404,Residential,Sunnybank,QLD
+C0405,Customer 405,Commercial,Chermside,QLD
+C0406,Customer 406,Residential,Eight Mile Plains,QLD
+C0407,Customer 407,Residential,Springfield,QLD
+C0408,Customer 408,Commercial,Eight Mile Plains,QLD
+C0409,Customer 409,Commercial,Toowong,QLD
+C0410,Customer 410,Residential,Springfield,QLD
+C0411,Customer 411,Commercial,Springfield,QLD
+C0412,Customer 412,Residential,Indooroopilly,QLD
+C0413,Customer 413,Residential,Calamvale,QLD
+C0414,Customer 414,Commercial,Indooroopilly,QLD
+C0415,Customer 415,Residential,Springfield,QLD
+C0416,Customer 416,Residential,Toowong,QLD
+C0417,Customer 417,Commercial,Forest Lake,QLD
+C0418,Customer 418,Residential,Calamvale,QLD
+C0419,Customer 419,Residential,Indooroopilly,QLD
+C0420,Customer 420,Residential,Toowong,QLD
+C0421,Customer 421,Commercial,Sunnybank,QLD
+C0422,Customer 422,Residential,Forest Lake,QLD
+C0423,Customer 423,Residential,Sunnybank,QLD
+C0424,Customer 424,Residential,Indooroopilly,QLD
+C0425,Customer 425,Residential,Springfield,QLD
+C0426,Customer 426,Residential,Sunnybank,QLD
+C0427,Customer 427,Residential,Forest Lake,QLD
+C0428,Customer 428,Residential,Chermside,QLD
+C0429,Customer 429,Residential,Springfield,QLD
+C0430,Customer 430,Residential,Redcliffe,QLD
+C0431,Customer 431,Residential,Eight Mile Plains,QLD
+C0432,Customer 432,Residential,Sunnybank,QLD
+C0433,Customer 433,Residential,Calamvale,QLD
+C0434,Customer 434,Residential,Calamvale,QLD
+C0435,Customer 435,Residential,Calamvale,QLD
+C0436,Customer 436,Residential,Eight Mile Plains,QLD
+C0437,Customer 437,Residential,Chermside,QLD
+C0438,Customer 438,Residential,Chermside,QLD
+C0439,Customer 439,Residential,Springfield,QLD
+C0440,Customer 440,Commercial,Carindale,QLD
+C0441,Customer 441,Residential,Eight Mile Plains,QLD
+C0442,Customer 442,Residential,Redcliffe,QLD
+C0443,Customer 443,Residential,Eight Mile Plains,QLD
+C0444,Customer 444,Commercial,Chermside,QLD
+C0445,Customer 445,Residential,Toowong,QLD
+C0446,Customer 446,Residential,Forest Lake,QLD
+C0447,Customer 447,Residential,Sunnybank,QLD
+C0448,Customer 448,Residential,Chermside,QLD
+C0449,Customer 449,Commercial,Redcliffe,QLD
+C0450,Customer 450,Commercial,Springfield,QLD
+C0451,Customer 451,Commercial,Springfield,QLD
+C0452,Customer 452,Residential,Indooroopilly,QLD
+C0453,Customer 453,Residential,Forest Lake,QLD
+C0454,Customer 454,Residential,Indooroopilly,QLD
+C0455,Customer 455,Commercial,Carindale,QLD
+C0456,Customer 456,Residential,Carindale,QLD
+C0457,Customer 457,Commercial,Toowong,QLD
+C0458,Customer 458,Residential,Springfield,QLD
+C0459,Customer 459,Residential,Toowong,QLD
+C0460,Customer 460,Residential,Eight Mile Plains,QLD
+C0461,Customer 461,Residential,Sunnybank,QLD
+C0462,Customer 462,Residential,Redcliffe,QLD
+C0463,Customer 463,Residential,Calamvale,QLD
+C0464,Customer 464,Commercial,Springfield,QLD
+C0465,Customer 465,Residential,Springfield,QLD
+C0466,Customer 466,Residential,Eight Mile Plains,QLD
+C0467,Customer 467,Residential,Eight Mile Plains,QLD
+C0468,Customer 468,Residential,Chermside,QLD
+C0469,Customer 469,Residential,Toowong,QLD
+C0470,Customer 470,Residential,Indooroopilly,QLD
+C0471,Customer 471,Commercial,Forest Lake,QLD
+C0472,Customer 472,Residential,Indooroopilly,QLD
+C0473,Customer 473,Residential,Springfield,QLD
+C0474,Customer 474,Commercial,Sunnybank,QLD
+C0475,Customer 475,Residential,Carindale,QLD
+C0476,Customer 476,Residential,Chermside,QLD
+C0477,Customer 477,Commercial,Calamvale,QLD
+C0478,Customer 478,Residential,Calamvale,QLD
+C0479,Customer 479,Residential,Calamvale,QLD
+C0480,Customer 480,Residential,Chermside,QLD
+C0481,Customer 481,Commercial,Sunnybank,QLD
+C0482,Customer 482,Residential,Sunnybank,QLD
+C0483,Customer 483,Residential,Indooroopilly,QLD
+C0484,Customer 484,Residential,Carindale,QLD
+C0485,Customer 485,Residential,Redcliffe,QLD
+C0486,Customer 486,Residential,Eight Mile Plains,QLD
+C0487,Customer 487,Residential,Calamvale,QLD
+C0488,Customer 488,Residential,Toowong,QLD
+C0489,Customer 489,Residential,Carindale,QLD
+C0490,Customer 490,Residential,Redcliffe,QLD
+C0491,Customer 491,Residential,Springfield,QLD
+C0492,Customer 492,Residential,Springfield,QLD
+C0493,Customer 493,Residential,Sunnybank,QLD
+C0494,Customer 494,Commercial,Springfield,QLD
+C0495,Customer 495,Commercial,Forest Lake,QLD
+C0496,Customer 496,Residential,Springfield,QLD
+C0497,Customer 497,Commercial,Redcliffe,QLD
+C0498,Customer 498,Residential,Toowong,QLD
+C0499,Customer 499,Residential,Springfield,QLD
+C0500,Customer 500,Commercial,Carindale,QLD
+C0501,Customer 501,Commercial,Springfield,QLD
+C0502,Customer 502,Residential,Toowong,QLD
+C0503,Customer 503,Residential,Redcliffe,QLD
+C0504,Customer 504,Residential,Chermside,QLD
+C0505,Customer 505,Residential,Toowong,QLD
+C0506,Customer 506,Residential,Redcliffe,QLD
+C0507,Customer 507,Commercial,Sunnybank,QLD
+C0508,Customer 508,Commercial,Springfield,QLD
+C0509,Customer 509,Commercial,Chermside,QLD
+C0510,Customer 510,Residential,Carindale,QLD
+C0511,Customer 511,Residential,Indooroopilly,QLD
+C0512,Customer 512,Residential,Carindale,QLD
+C0513,Customer 513,Residential,Eight Mile Plains,QLD
+C0514,Customer 514,Residential,Sunnybank,QLD
+C0515,Customer 515,Residential,Springfield,QLD
+C0516,Customer 516,Residential,Indooroopilly,QLD
+C0517,Customer 517,Residential,Calamvale,QLD
+C0518,Customer 518,Commercial,Indooroopilly,QLD
+C0519,Customer 519,Residential,Eight Mile Plains,QLD
+C0520,Customer 520,Residential,Forest Lake,QLD
+C0521,Customer 521,Commercial,Indooroopilly,QLD
+C0522,Customer 522,Residential,Chermside,QLD
+C0523,Customer 523,Commercial,Chermside,QLD
+C0524,Customer 524,Commercial,Springfield,QLD
+C0525,Customer 525,Commercial,Chermside,QLD
+C0526,Customer 526,Residential,Indooroopilly,QLD
+C0527,Customer 527,Commercial,Springfield,QLD
+C0528,Customer 528,Commercial,Eight Mile Plains,QLD
+C0529,Customer 529,Residential,Carindale,QLD
+C0530,Customer 530,Commercial,Toowong,QLD
+C0531,Customer 531,Commercial,Forest Lake,QLD
+C0532,Customer 532,Residential,Toowong,QLD
+C0533,Customer 533,Residential,Forest Lake,QLD
+C0534,Customer 534,Residential,Indooroopilly,QLD
+C0535,Customer 535,Residential,Chermside,QLD
+C0536,Customer 536,Residential,Indooroopilly,QLD
+C0537,Customer 537,Residential,Carindale,QLD
+C0538,Customer 538,Residential,Redcliffe,QLD
+C0539,Customer 539,Commercial,Forest Lake,QLD
+C0540,Customer 540,Residential,Redcliffe,QLD
+C0541,Customer 541,Residential,Calamvale,QLD
+C0542,Customer 542,Residential,Springfield,QLD
+C0543,Customer 543,Commercial,Chermside,QLD
+C0544,Customer 544,Residential,Calamvale,QLD
+C0545,Customer 545,Residential,Sunnybank,QLD
+C0546,Customer 546,Residential,Springfield,QLD
+C0547,Customer 547,Residential,Carindale,QLD
+C0548,Customer 548,Commercial,Eight Mile Plains,QLD
+C0549,Customer 549,Residential,Indooroopilly,QLD
+C0550,Customer 550,Residential,Forest Lake,QLD
+C0551,Customer 551,Residential,Eight Mile Plains,QLD
+C0552,Customer 552,Commercial,Calamvale,QLD
+C0553,Customer 553,Commercial,Redcliffe,QLD
+C0554,Customer 554,Residential,Chermside,QLD
+C0555,Customer 555,Residential,Indooroopilly,QLD
+C0556,Customer 556,Residential,Springfield,QLD
+C0557,Customer 557,Commercial,Indooroopilly,QLD
+C0558,Customer 558,Residential,Indooroopilly,QLD
+C0559,Customer 559,Residential,Indooroopilly,QLD
+C0560,Customer 560,Residential,Chermside,QLD
+C0561,Customer 561,Residential,Calamvale,QLD
+C0562,Customer 562,Commercial,Springfield,QLD
+C0563,Customer 563,Residential,Carindale,QLD
+C0564,Customer 564,Residential,Redcliffe,QLD
+C0565,Customer 565,Commercial,Sunnybank,QLD
+C0566,Customer 566,Residential,Carindale,QLD
+C0567,Customer 567,Commercial,Redcliffe,QLD
+C0568,Customer 568,Residential,Forest Lake,QLD
+C0569,Customer 569,Residential,Carindale,QLD
+C0570,Customer 570,Commercial,Carindale,QLD
+C0571,Customer 571,Residential,Eight Mile Plains,QLD
+C0572,Customer 572,Residential,Redcliffe,QLD
+C0573,Customer 573,Residential,Eight Mile Plains,QLD
+C0574,Customer 574,Commercial,Forest Lake,QLD
+C0575,Customer 575,Residential,Eight Mile Plains,QLD
+C0576,Customer 576,Residential,Sunnybank,QLD
+C0577,Customer 577,Residential,Indooroopilly,QLD
+C0578,Customer 578,Residential,Carindale,QLD
+C0579,Customer 579,Residential,Sunnybank,QLD
+C0580,Customer 580,Residential,Sunnybank,QLD
+C0581,Customer 581,Residential,Toowong,QLD
+C0582,Customer 582,Residential,Calamvale,QLD
+C0583,Customer 583,Residential,Indooroopilly,QLD
+C0584,Customer 584,Residential,Calamvale,QLD
+C0585,Customer 585,Residential,Carindale,QLD
+C0586,Customer 586,Commercial,Sunnybank,QLD
+C0587,Customer 587,Residential,Forest Lake,QLD
+C0588,Customer 588,Residential,Sunnybank,QLD
+C0589,Customer 589,Residential,Springfield,QLD
+C0590,Customer 590,Commercial,Toowong,QLD
+C0591,Customer 591,Residential,Springfield,QLD
+C0592,Customer 592,Residential,Springfield,QLD
+C0593,Customer 593,Residential,Calamvale,QLD
+C0594,Customer 594,Residential,Eight Mile Plains,QLD
+C0595,Customer 595,Residential,Chermside,QLD
+C0596,Customer 596,Residential,Redcliffe,QLD
+C0597,Customer 597,Residential,Indooroopilly,QLD
+C0598,Customer 598,Residential,Redcliffe,QLD
+C0599,Customer 599,Residential,Springfield,QLD
+C0600,Customer 600,Residential,Toowong,QLD
+C0601,Customer 601,Residential,Calamvale,QLD
+C0602,Customer 602,Commercial,Forest Lake,QLD
+C0603,Customer 603,Residential,Carindale,QLD
+C0604,Customer 604,Residential,Carindale,QLD
+C0605,Customer 605,Residential,Springfield,QLD
+C0606,Customer 606,Residential,Calamvale,QLD
+C0607,Customer 607,Residential,Indooroopilly,QLD
+C0608,Customer 608,Residential,Indooroopilly,QLD
+C0609,Customer 609,Commercial,Springfield,QLD
+C0610,Customer 610,Residential,Calamvale,QLD
+C0611,Customer 611,Residential,Calamvale,QLD
+C0612,Customer 612,Residential,Indooroopilly,QLD
+C0613,Customer 613,Commercial,Forest Lake,QLD
+C0614,Customer 614,Residential,Forest Lake,QLD
+C0615,Customer 615,Residential,Calamvale,QLD
+C0616,Customer 616,Residential,Toowong,QLD
+C0617,Customer 617,Commercial,Sunnybank,QLD
+C0618,Customer 618,Commercial,Redcliffe,QLD
+C0619,Customer 619,Residential,Calamvale,QLD
+C0620,Customer 620,Residential,Carindale,QLD
+C0621,Customer 621,Residential,Springfield,QLD
+C0622,Customer 622,Residential,Calamvale,QLD
+C0623,Customer 623,Residential,Forest Lake,QLD
+C0624,Customer 624,Residential,Chermside,QLD
+C0625,Customer 625,Residential,Toowong,QLD
+C0626,Customer 626,Commercial,Redcliffe,QLD
+C0627,Customer 627,Residential,Forest Lake,QLD
+C0628,Customer 628,Residential,Chermside,QLD
+C0629,Customer 629,Residential,Chermside,QLD
+C0630,Customer 630,Residential,Chermside,QLD
+C0631,Customer 631,Commercial,Indooroopilly,QLD
+C0632,Customer 632,Residential,Eight Mile Plains,QLD
+C0633,Customer 633,Residential,Toowong,QLD
+C0634,Customer 634,Residential,Sunnybank,QLD
+C0635,Customer 635,Residential,Forest Lake,QLD
+C0636,Customer 636,Residential,Toowong,QLD
+C0637,Customer 637,Residential,Eight Mile Plains,QLD
+C0638,Customer 638,Residential,Indooroopilly,QLD
+C0639,Customer 639,Residential,Redcliffe,QLD
+C0640,Customer 640,Residential,Sunnybank,QLD
+C0641,Customer 641,Residential,Redcliffe,QLD
+C0642,Customer 642,Residential,Calamvale,QLD
+C0643,Customer 643,Residential,Toowong,QLD
+C0644,Customer 644,Residential,Springfield,QLD
+C0645,Customer 645,Residential,Carindale,QLD
+C0646,Customer 646,Residential,Calamvale,QLD
+C0647,Customer 647,Residential,Calamvale,QLD
+C0648,Customer 648,Residential,Redcliffe,QLD
+C0649,Customer 649,Residential,Chermside,QLD
+C0650,Customer 650,Residential,Toowong,QLD
+C0651,Customer 651,Commercial,Sunnybank,QLD
+C0652,Customer 652,Residential,Chermside,QLD
+C0653,Customer 653,Commercial,Eight Mile Plains,QLD
+C0654,Customer 654,Residential,Chermside,QLD
+C0655,Customer 655,Residential,Sunnybank,QLD
+C0656,Customer 656,Residential,Toowong,QLD
+C0657,Customer 657,Residential,Toowong,QLD
+C0658,Customer 658,Residential,Carindale,QLD
+C0659,Customer 659,Residential,Indooroopilly,QLD
+C0660,Customer 660,Residential,Sunnybank,QLD
+C0661,Customer 661,Residential,Springfield,QLD
+C0662,Customer 662,Commercial,Indooroopilly,QLD
+C0663,Customer 663,Residential,Redcliffe,QLD
+C0664,Customer 664,Residential,Toowong,QLD
+C0665,Customer 665,Residential,Toowong,QLD
+C0666,Customer 666,Residential,Indooroopilly,QLD
+C0667,Customer 667,Residential,Redcliffe,QLD
+C0668,Customer 668,Residential,Indooroopilly,QLD
+C0669,Customer 669,Residential,Calamvale,QLD
+C0670,Customer 670,Residential,Redcliffe,QLD
+C0671,Customer 671,Residential,Calamvale,QLD
+C0672,Customer 672,Residential,Chermside,QLD
+C0673,Customer 673,Residential,Carindale,QLD
+C0674,Customer 674,Residential,Eight Mile Plains,QLD
+C0675,Customer 675,Residential,Calamvale,QLD
+C0676,Customer 676,Residential,Carindale,QLD
+C0677,Customer 677,Commercial,Indooroopilly,QLD
+C0678,Customer 678,Residential,Eight Mile Plains,QLD
+C0679,Customer 679,Residential,Eight Mile Plains,QLD
+C0680,Customer 680,Residential,Eight Mile Plains,QLD
+C0681,Customer 681,Residential,Calamvale,QLD
+C0682,Customer 682,Residential,Springfield,QLD
+C0683,Customer 683,Residential,Redcliffe,QLD
+C0684,Customer 684,Residential,Springfield,QLD
+C0685,Customer 685,Residential,Redcliffe,QLD
+C0686,Customer 686,Residential,Redcliffe,QLD
+C0687,Customer 687,Residential,Indooroopilly,QLD
+C0688,Customer 688,Residential,Calamvale,QLD
+C0689,Customer 689,Residential,Chermside,QLD
+C0690,Customer 690,Residential,Redcliffe,QLD
+C0691,Customer 691,Residential,Forest Lake,QLD
+C0692,Customer 692,Residential,Springfield,QLD
+C0693,Customer 693,Residential,Sunnybank,QLD
+C0694,Customer 694,Residential,Chermside,QLD
+C0695,Customer 695,Residential,Calamvale,QLD
+C0696,Customer 696,Residential,Forest Lake,QLD
+C0697,Customer 697,Residential,Redcliffe,QLD
+C0698,Customer 698,Residential,Sunnybank,QLD
+C0699,Customer 699,Residential,Redcliffe,QLD
+C0700,Customer 700,Residential,Indooroopilly,QLD
+C0701,Customer 701,Residential,Forest Lake,QLD
+C0702,Customer 702,Residential,Sunnybank,QLD
+C0703,Customer 703,Residential,Indooroopilly,QLD
+C0704,Customer 704,Commercial,Calamvale,QLD
+C0705,Customer 705,Residential,Eight Mile Plains,QLD
+C0706,Customer 706,Residential,Springfield,QLD
+C0707,Customer 707,Commercial,Forest Lake,QLD
+C0708,Customer 708,Residential,Eight Mile Plains,QLD
+C0709,Customer 709,Residential,Chermside,QLD
+C0710,Customer 710,Residential,Indooroopilly,QLD
+C0711,Customer 711,Residential,Sunnybank,QLD
+C0712,Customer 712,Residential,Indooroopilly,QLD
+C0713,Customer 713,Residential,Calamvale,QLD
+C0714,Customer 714,Residential,Toowong,QLD
+C0715,Customer 715,Residential,Redcliffe,QLD
+C0716,Customer 716,Commercial,Indooroopilly,QLD
+C0717,Customer 717,Residential,Eight Mile Plains,QLD
+C0718,Customer 718,Commercial,Chermside,QLD
+C0719,Customer 719,Commercial,Toowong,QLD
+C0720,Customer 720,Residential,Calamvale,QLD
+C0721,Customer 721,Residential,Toowong,QLD
+C0722,Customer 722,Residential,Indooroopilly,QLD
+C0723,Customer 723,Commercial,Forest Lake,QLD
+C0724,Customer 724,Residential,Toowong,QLD
+C0725,Customer 725,Residential,Sunnybank,QLD
+C0726,Customer 726,Residential,Eight Mile Plains,QLD
+C0727,Customer 727,Commercial,Indooroopilly,QLD
+C0728,Customer 728,Commercial,Springfield,QLD
+C0729,Customer 729,Residential,Eight Mile Plains,QLD
+C0730,Customer 730,Residential,Chermside,QLD
+C0731,Customer 731,Commercial,Calamvale,QLD
+C0732,Customer 732,Residential,Forest Lake,QLD
+C0733,Customer 733,Commercial,Forest Lake,QLD
+C0734,Customer 734,Residential,Indooroopilly,QLD
+C0735,Customer 735,Commercial,Redcliffe,QLD
+C0736,Customer 736,Residential,Toowong,QLD
+C0737,Customer 737,Residential,Eight Mile Plains,QLD
+C0738,Customer 738,Commercial,Redcliffe,QLD
+C0739,Customer 739,Commercial,Eight Mile Plains,QLD
+C0740,Customer 740,Residential,Sunnybank,QLD
+C0741,Customer 741,Residential,Carindale,QLD
+C0742,Customer 742,Commercial,Redcliffe,QLD
+C0743,Customer 743,Residential,Springfield,QLD
+C0744,Customer 744,Residential,Carindale,QLD
+C0745,Customer 745,Residential,Springfield,QLD
+C0746,Customer 746,Commercial,Carindale,QLD
+C0747,Customer 747,Residential,Redcliffe,QLD
+C0748,Customer 748,Commercial,Springfield,QLD
+C0749,Customer 749,Residential,Toowong,QLD
+C0750,Customer 750,Residential,Toowong,QLD
+C0751,Customer 751,Commercial,Carindale,QLD
+C0752,Customer 752,Commercial,Eight Mile Plains,QLD
+C0753,Customer 753,Commercial,Sunnybank,QLD
+C0754,Customer 754,Residential,Indooroopilly,QLD
+C0755,Customer 755,Residential,Calamvale,QLD
+C0756,Customer 756,Residential,Forest Lake,QLD
+C0757,Customer 757,Commercial,Chermside,QLD
+C0758,Customer 758,Residential,Eight Mile Plains,QLD
+C0759,Customer 759,Residential,Forest Lake,QLD
+C0760,Customer 760,Residential,Toowong,QLD
+C0761,Customer 761,Residential,Carindale,QLD
+C0762,Customer 762,Commercial,Indooroopilly,QLD
+C0763,Customer 763,Commercial,Toowong,QLD
+C0764,Customer 764,Residential,Forest Lake,QLD
+C0765,Customer 765,Residential,Toowong,QLD
+C0766,Customer 766,Commercial,Indooroopilly,QLD
+C0767,Customer 767,Residential,Indooroopilly,QLD
+C0768,Customer 768,Commercial,Indooroopilly,QLD
+C0769,Customer 769,Residential,Eight Mile Plains,QLD
+C0770,Customer 770,Residential,Springfield,QLD
+C0771,Customer 771,Residential,Eight Mile Plains,QLD
+C0772,Customer 772,Residential,Springfield,QLD
+C0773,Customer 773,Residential,Sunnybank,QLD
+C0774,Customer 774,Commercial,Sunnybank,QLD
+C0775,Customer 775,Residential,Eight Mile Plains,QLD
+C0776,Customer 776,Residential,Redcliffe,QLD
+C0777,Customer 777,Residential,Calamvale,QLD
+C0778,Customer 778,Residential,Carindale,QLD
+C0779,Customer 779,Residential,Sunnybank,QLD
+C0780,Customer 780,Residential,Redcliffe,QLD
+C0781,Customer 781,Residential,Calamvale,QLD
+C0782,Customer 782,Commercial,Springfield,QLD
+C0783,Customer 783,Residential,Sunnybank,QLD
+C0784,Customer 784,Residential,Redcliffe,QLD
+C0785,Customer 785,Residential,Eight Mile Plains,QLD
+C0786,Customer 786,Residential,Sunnybank,QLD
+C0787,Customer 787,Residential,Carindale,QLD
+C0788,Customer 788,Residential,Eight Mile Plains,QLD
+C0789,Customer 789,Residential,Calamvale,QLD
+C0790,Customer 790,Residential,Indooroopilly,QLD
+C0791,Customer 791,Residential,Forest Lake,QLD
+C0792,Customer 792,Residential,Forest Lake,QLD
+C0793,Customer 793,Residential,Toowong,QLD
+C0794,Customer 794,Commercial,Sunnybank,QLD
+C0795,Customer 795,Residential,Indooroopilly,QLD
+C0796,Customer 796,Residential,Sunnybank,QLD
+C0797,Customer 797,Residential,Calamvale,QLD
+C0798,Customer 798,Residential,Calamvale,QLD
+C0799,Customer 799,Residential,Indooroopilly,QLD
+C0800,Customer 800,Residential,Indooroopilly,QLD
+C0801,Customer 801,Residential,Eight Mile Plains,QLD
+C0802,Customer 802,Commercial,Springfield,QLD
+C0803,Customer 803,Commercial,Springfield,QLD
+C0804,Customer 804,Residential,Eight Mile Plains,QLD
+C0805,Customer 805,Residential,Springfield,QLD
+C0806,Customer 806,Residential,Carindale,QLD
+C0807,Customer 807,Residential,Carindale,QLD
+C0808,Customer 808,Commercial,Indooroopilly,QLD
+C0809,Customer 809,Commercial,Forest Lake,QLD
+C0810,Customer 810,Residential,Forest Lake,QLD
+C0811,Customer 811,Residential,Sunnybank,QLD
+C0812,Customer 812,Residential,Carindale,QLD
+C0813,Customer 813,Residential,Sunnybank,QLD
+C0814,Customer 814,Commercial,Indooroopilly,QLD
+C0815,Customer 815,Residential,Indooroopilly,QLD
+C0816,Customer 816,Residential,Toowong,QLD
+C0817,Customer 817,Residential,Toowong,QLD
+C0818,Customer 818,Residential,Eight Mile Plains,QLD
+C0819,Customer 819,Residential,Springfield,QLD
+C0820,Customer 820,Residential,Forest Lake,QLD
+C0821,Customer 821,Residential,Calamvale,QLD
+C0822,Customer 822,Residential,Calamvale,QLD
+C0823,Customer 823,Residential,Eight Mile Plains,QLD
+C0824,Customer 824,Residential,Indooroopilly,QLD
+C0825,Customer 825,Residential,Indooroopilly,QLD
+C0826,Customer 826,Residential,Chermside,QLD
+C0827,Customer 827,Residential,Toowong,QLD
+C0828,Customer 828,Residential,Springfield,QLD
+C0829,Customer 829,Residential,Sunnybank,QLD
+C0830,Customer 830,Residential,Indooroopilly,QLD
+C0831,Customer 831,Residential,Toowong,QLD
+C0832,Customer 832,Residential,Sunnybank,QLD
+C0833,Customer 833,Residential,Toowong,QLD
+C0834,Customer 834,Residential,Eight Mile Plains,QLD
+C0835,Customer 835,Commercial,Eight Mile Plains,QLD
+C0836,Customer 836,Commercial,Springfield,QLD
+C0837,Customer 837,Residential,Calamvale,QLD
+C0838,Customer 838,Residential,Indooroopilly,QLD
+C0839,Customer 839,Residential,Redcliffe,QLD
+C0840,Customer 840,Residential,Eight Mile Plains,QLD
+C0841,Customer 841,Residential,Indooroopilly,QLD
+C0842,Customer 842,Residential,Calamvale,QLD
+C0843,Customer 843,Residential,Forest Lake,QLD
+C0844,Customer 844,Residential,Indooroopilly,QLD
+C0845,Customer 845,Residential,Carindale,QLD
+C0846,Customer 846,Commercial,Sunnybank,QLD
+C0847,Customer 847,Residential,Springfield,QLD
+C0848,Customer 848,Residential,Forest Lake,QLD
+C0849,Customer 849,Residential,Chermside,QLD
+C0850,Customer 850,Residential,Carindale,QLD
+C0851,Customer 851,Commercial,Chermside,QLD
+C0852,Customer 852,Residential,Springfield,QLD
+C0853,Customer 853,Residential,Eight Mile Plains,QLD
+C0854,Customer 854,Commercial,Springfield,QLD
+C0855,Customer 855,Residential,Springfield,QLD
+C0856,Customer 856,Commercial,Indooroopilly,QLD
+C0857,Customer 857,Residential,Calamvale,QLD
+C0858,Customer 858,Residential,Chermside,QLD
+C0859,Customer 859,Commercial,Eight Mile Plains,QLD
+C0860,Customer 860,Residential,Eight Mile Plains,QLD
+C0861,Customer 861,Residential,Forest Lake,QLD
+C0862,Customer 862,Residential,Carindale,QLD
+C0863,Customer 863,Residential,Carindale,QLD
+C0864,Customer 864,Residential,Sunnybank,QLD
+C0865,Customer 865,Residential,Redcliffe,QLD
+C0866,Customer 866,Residential,Forest Lake,QLD
+C0867,Customer 867,Residential,Calamvale,QLD
+C0868,Customer 868,Residential,Toowong,QLD
+C0869,Customer 869,Commercial,Springfield,QLD
+C0870,Customer 870,Residential,Toowong,QLD
+C0871,Customer 871,Commercial,Calamvale,QLD
+C0872,Customer 872,Residential,Indooroopilly,QLD
+C0873,Customer 873,Residential,Springfield,QLD
+C0874,Customer 874,Residential,Forest Lake,QLD
+C0875,Customer 875,Residential,Forest Lake,QLD
+C0876,Customer 876,Residential,Eight Mile Plains,QLD
+C0877,Customer 877,Residential,Eight Mile Plains,QLD
+C0878,Customer 878,Residential,Sunnybank,QLD
+C0879,Customer 879,Commercial,Forest Lake,QLD
+C0880,Customer 880,Residential,Eight Mile Plains,QLD
+C0881,Customer 881,Residential,Carindale,QLD
+C0882,Customer 882,Residential,Forest Lake,QLD
+C0883,Customer 883,Commercial,Calamvale,QLD
+C0884,Customer 884,Residential,Forest Lake,QLD
+C0885,Customer 885,Residential,Chermside,QLD
+C0886,Customer 886,Residential,Calamvale,QLD
+C0887,Customer 887,Residential,Eight Mile Plains,QLD
+C0888,Customer 888,Residential,Redcliffe,QLD
+C0889,Customer 889,Residential,Redcliffe,QLD
+C0890,Customer 890,Residential,Redcliffe,QLD
+C0891,Customer 891,Residential,Redcliffe,QLD
+C0892,Customer 892,Residential,Sunnybank,QLD
+C0893,Customer 893,Residential,Redcliffe,QLD
+C0894,Customer 894,Residential,Carindale,QLD
+C0895,Customer 895,Residential,Toowong,QLD
+C0896,Customer 896,Residential,Sunnybank,QLD
+C0897,Customer 897,Residential,Forest Lake,QLD
+C0898,Customer 898,Residential,Chermside,QLD
+C0899,Customer 899,Residential,Toowong,QLD
+C0900,Customer 900,Residential,Calamvale,QLD
+C0901,Customer 901,Residential,Eight Mile Plains,QLD
+C0902,Customer 902,Residential,Springfield,QLD
+C0903,Customer 903,Residential,Indooroopilly,QLD
+C0904,Customer 904,Residential,Indooroopilly,QLD
+C0905,Customer 905,Commercial,Indooroopilly,QLD
+C0906,Customer 906,Residential,Indooroopilly,QLD
+C0907,Customer 907,Commercial,Eight Mile Plains,QLD
+C0908,Customer 908,Residential,Forest Lake,QLD
+C0909,Customer 909,Residential,Indooroopilly,QLD
+C0910,Customer 910,Residential,Calamvale,QLD
+C0911,Customer 911,Residential,Carindale,QLD
+C0912,Customer 912,Residential,Sunnybank,QLD
+C0913,Customer 913,Residential,Toowong,QLD
+C0914,Customer 914,Commercial,Toowong,QLD
+C0915,Customer 915,Residential,Eight Mile Plains,QLD
+C0916,Customer 916,Commercial,Redcliffe,QLD
+C0917,Customer 917,Residential,Carindale,QLD
+C0918,Customer 918,Residential,Springfield,QLD
+C0919,Customer 919,Commercial,Springfield,QLD
+C0920,Customer 920,Residential,Chermside,QLD
+C0921,Customer 921,Residential,Calamvale,QLD
+C0922,Customer 922,Commercial,Forest Lake,QLD
+C0923,Customer 923,Residential,Carindale,QLD
+C0924,Customer 924,Residential,Indooroopilly,QLD
+C0925,Customer 925,Residential,Chermside,QLD
+C0926,Customer 926,Residential,Springfield,QLD
+C0927,Customer 927,Residential,Sunnybank,QLD
+C0928,Customer 928,Commercial,Toowong,QLD
+C0929,Customer 929,Residential,Chermside,QLD
+C0930,Customer 930,Residential,Toowong,QLD
+C0931,Customer 931,Residential,Toowong,QLD
+C0932,Customer 932,Residential,Forest Lake,QLD
+C0933,Customer 933,Residential,Forest Lake,QLD
+C0934,Customer 934,Residential,Toowong,QLD
+C0935,Customer 935,Residential,Forest Lake,QLD
+C0936,Customer 936,Residential,Redcliffe,QLD
+C0937,Customer 937,Residential,Calamvale,QLD
+C0938,Customer 938,Residential,Calamvale,QLD
+C0939,Customer 939,Residential,Indooroopilly,QLD
+C0940,Customer 940,Residential,Indooroopilly,QLD
+C0941,Customer 941,Residential,Carindale,QLD
+C0942,Customer 942,Residential,Toowong,QLD
+C0943,Customer 943,Residential,Sunnybank,QLD
+C0944,Customer 944,Residential,Indooroopilly,QLD
+C0945,Customer 945,Commercial,Forest Lake,QLD
+C0946,Customer 946,Residential,Redcliffe,QLD
+C0947,Customer 947,Commercial,Eight Mile Plains,QLD
+C0948,Customer 948,Residential,Redcliffe,QLD
+C0949,Customer 949,Residential,Toowong,QLD
+C0950,Customer 950,Commercial,Chermside,QLD
+C0951,Customer 951,Residential,Forest Lake,QLD
+C0952,Customer 952,Commercial,Forest Lake,QLD
+C0953,Customer 953,Residential,Redcliffe,QLD
+C0954,Customer 954,Residential,Sunnybank,QLD
+C0955,Customer 955,Residential,Calamvale,QLD
+C0956,Customer 956,Commercial,Redcliffe,QLD
+C0957,Customer 957,Residential,Sunnybank,QLD
+C0958,Customer 958,Residential,Chermside,QLD
+C0959,Customer 959,Commercial,Redcliffe,QLD
+C0960,Customer 960,Residential,Sunnybank,QLD
+C0961,Customer 961,Residential,Eight Mile Plains,QLD
+C0962,Customer 962,Residential,Redcliffe,QLD
+C0963,Customer 963,Residential,Toowong,QLD
+C0964,Customer 964,Residential,Carindale,QLD
+C0965,Customer 965,Residential,Calamvale,QLD
+C0966,Customer 966,Residential,Springfield,QLD
+C0967,Customer 967,Residential,Eight Mile Plains,QLD
+C0968,Customer 968,Residential,Carindale,QLD
+C0969,Customer 969,Residential,Redcliffe,QLD
+C0970,Customer 970,Commercial,Sunnybank,QLD
+C0971,Customer 971,Residential,Forest Lake,QLD
+C0972,Customer 972,Residential,Indooroopilly,QLD
+C0973,Customer 973,Commercial,Springfield,QLD
+C0974,Customer 974,Residential,Indooroopilly,QLD
+C0975,Customer 975,Commercial,Springfield,QLD
+C0976,Customer 976,Commercial,Indooroopilly,QLD
+C0977,Customer 977,Residential,Chermside,QLD
+C0978,Customer 978,Residential,Carindale,QLD
+C0979,Customer 979,Commercial,Chermside,QLD
+C0980,Customer 980,Residential,Carindale,QLD
+C0981,Customer 981,Commercial,Chermside,QLD
+C0982,Customer 982,Residential,Carindale,QLD
+C0983,Customer 983,Residential,Springfield,QLD
+C0984,Customer 984,Residential,Indooroopilly,QLD
+C0985,Customer 985,Residential,Chermside,QLD
+C0986,Customer 986,Residential,Redcliffe,QLD
+C0987,Customer 987,Residential,Toowong,QLD
+C0988,Customer 988,Commercial,Toowong,QLD
+C0989,Customer 989,Commercial,Eight Mile Plains,QLD
+C0990,Customer 990,Residential,Chermside,QLD
+C0991,Customer 991,Commercial,Calamvale,QLD
+C0992,Customer 992,Residential,Springfield,QLD
+C0993,Customer 993,Residential,Springfield,QLD
+C0994,Customer 994,Residential,Forest Lake,QLD
+C0995,Customer 995,Residential,Forest Lake,QLD
+C0996,Customer 996,Residential,Eight Mile Plains,QLD
+C0997,Customer 997,Residential,Redcliffe,QLD
+C0998,Customer 998,Residential,Sunnybank,QLD
+C0999,Customer 999,Residential,Forest Lake,QLD
+C1000,Customer 1000,Residential,Carindale,QLD
