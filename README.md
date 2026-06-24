@@ -134,7 +134,13 @@ React Portfolio Website
 
 ## Dashboard Preview
 
-See screenshots/dashboard.png
+![Dashboard Screenshot](./screenshots/dashboard.png)
+
+---
+
+## ERD Preview
+
+![Data Model Screenshot](./screenshots/data-model.png)
 
 ---
 
